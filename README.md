@@ -1,6 +1,6 @@
-#Shifa Sutgatti
+# Shifa Sutgatti
 
-##About Me
+## About Me
 
 Hello there! I'm Shifa Sutgatti, a passionate and detail-oriented QA Associate at [Kickdrum)(https://www.kickdrum.com/). My goal is to ensure flawless software solutions that deliver exceptional user experiences.
 
